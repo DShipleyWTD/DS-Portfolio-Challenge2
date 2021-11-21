@@ -64,10 +64,10 @@ p {
 
 /* Hero Syle Start */
 .hero {
-    height: 800px;
+    height: 200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("");
     background-size: cover;
     background-position: center;
 }
@@ -85,12 +85,13 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 95%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 30px;
+   
 }
 
-.search-engine-optimization {
+.About-Me {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -99,16 +100,7 @@ p {
     color: var(--primary-color);
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: var(--secondary-color);
-    color: var(--primary-color);
-   }
-
-.social-media-marketing {
+.Work {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -117,104 +109,39 @@ p {
     color: var(--primary-color);
    }
 
-.search-engine-optimization img {
+.Contact-Info {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+   }
+
+.About-Me img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+.Work img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+.Contact-Info img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.About-Me h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.Work h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.Contact-Info h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 /* Section Style End */
-
-/* Aside Style Start */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: var(--quinary-color)
-}
-
-.benefit-lead {
-    margin-bottom: 32px;
-    color: var(--primary-color)
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: var(--primary-color)
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: var(--primary-color)
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* Aside Style End*/
-
-/* Footer Style Start */
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/* Footer Style End */
